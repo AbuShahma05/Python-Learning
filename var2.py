@@ -1,0 +1,7 @@
+# Many Values to Multiple Variables
+
+x, y, z = "orange", "banana", "cherry"
+
+print(x)
+print(y)
+print(z)
