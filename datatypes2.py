@@ -40,3 +40,7 @@ z1 = 38e8
 z2 = 98E0
 z3 = -87.7e100
 print(type(z3))
+
+import random
+
+print(random.randrange(1,10))
