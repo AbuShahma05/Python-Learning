@@ -36,3 +36,19 @@ num2 = 7
 x1 = "Fri" if num2 == 5 else "Sat" if num2 == 6 else "Sun" if num2 == 7 else "weekday"
 
 print(x1)
+
+x2 = 5
+print(1 < x2 < 10)
+print(x2 > 0 and x2 < 10)
+
+
+x3 = ["apple", "banana"]
+y3 = ["apple", "banana"]
+print(x3 is y3)
+print(x3 is not y3)
+
+fruits = ["apple", "banana", "cherry"]
+print("banana" in fruits)
+print((6 + 3) - (6 + 3))
+print(100 + 5 * 3)
+print(5 + 4 - 7 + 3)
