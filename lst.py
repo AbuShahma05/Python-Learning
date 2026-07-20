@@ -16,3 +16,6 @@ print(list1)
 
 list1.append("ketup")
 print(list1)
+
+# print(1 + "1")  TypeError 
+
